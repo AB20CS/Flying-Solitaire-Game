@@ -21,6 +21,7 @@ MARS MIPS Simulator Installation Link: https://courses.missouristate.edu/KenVoll
 
 ## Gameplay
 - 'A' = move left, 'S' = move down, 'D' = move right, 'W' = move up
+- Press 'P' to restart the game at any time
 - Avoid flying cards on the screen. With every collision, health points are deducted.
 - Press 'space' to shoot
 - Player cannot shoot a second time if shot is still on screen
