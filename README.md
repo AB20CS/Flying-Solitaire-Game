@@ -13,7 +13,7 @@ MARS MIPS Simulator Installation Link: https://courses.missouristate.edu/KenVoll
     - **Display width in pixels:** 256
     - **Display height in pixels:** 256
     - **Base Address for Display:** 0x10008000 ($gp)
-3. Click on _Connect to MIPS_.
+3. Click on `Connect to MIPS`.
 
 ### Keyboard Input
 1. Navigate to `Tools` > `Keyboard and Display MMIO Simulator`.
