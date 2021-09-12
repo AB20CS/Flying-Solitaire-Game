@@ -6,7 +6,7 @@ MARS MIPS Simulator Installation Link: https://courses.missouristate.edu/KenVoll
 
 ## Setup
 ### Bitmap Display Configuration
-1. Navigate to _Tools_ > _Bitmap Display_.
+1. Navigate to `Tools` > `Bitmap Display`.
 2. Input the following display specifications:
     - **Unit width in pixels:** 4
     - **Unit height in pixels:** 4
@@ -16,14 +16,14 @@ MARS MIPS Simulator Installation Link: https://courses.missouristate.edu/KenVoll
 3. Click on _Connect to MIPS_.
 
 ### Keyboard Input
-1. Navigate to _Tools_ > _Keyboard and Display MMIO Simulator_.
-2. Click on _Connect to MIPS_.
+1. Navigate to `Tools` > `Keyboard and Display MMIO Simulator`.
+2. Click on `Connect to MIPS`.
 
 ## Gameplay
-- 'A' = move left, 'S' = move down, 'D' = move right, 'W' = move up
-- Press 'P' to restart the game at any time
+- `A` = move left, `S` = move down, `D` = move right, `W` = move up
+- Press `P` to restart the game at any time
 - Avoid flying cards on the screen. With every collision, health points are deducted.
-- Press 'space' to shoot
+- Press `space` to shoot
 - Player cannot shoot a second time if shot is still on screen
 - _Pick-up rules:_
     - Horseshoe pick-up: increases score by 10 points
